@@ -1,0 +1,21 @@
+body {
+  font-family: "Helvetica Neue", Arial;
+  font-weight: 200;
+}
+
+h1, h2, h3 {
+  font-weight: 100;
+}
+
+a {
+  color: hsl(200, 50%, 50%);
+}
+
+a.active {
+  color: #79b17f;
+  font-weight: bold;
+}
+
+.breadcrumbs a {
+  text-decoration: none;
+}

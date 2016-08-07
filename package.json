@@ -1,0 +1,41 @@
+{
+  "name": "crosshairs",
+  "version": "0.0.1",
+  "description": "UI for the crosshairs API",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "superagent": "^2.1.0",
+    "underscore": "^1.8.3",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/varunshah1106/react-es6.git"
+  },
+  "keywords": [
+    "reactjs",
+    "es6",
+    "crosshairs"
+  ],
+  "author": "Varun Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunshah1106/react-es6/issues"
+  },
+  "homepage": "https://github.com/varunshah1106/react-es6#readme"
+}
